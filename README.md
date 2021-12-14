@@ -1,15 +1,23 @@
 # BT-USB
 
-一个用来蓝牙转USB串口的模块，用来进行无线数据传输，无线调参的装置
+一个用来蓝牙转USB串口的模块，用来进行无线数据传输，无线调参的装置，硬件已经测试通过~
+
+## 效果图
 硬件部分采用一个HC05模块，串口芯片用的CH340T。其实串口芯片用CP2102可能减少一些不必要的麻烦，虽然这个芯片的价格会贵一点。
 最后的成品是这样的：
+<div align=center><img src="https://user-images.githubusercontent.com/48275625/146016455-b6106ac0-f518-4c91-b779-fcc6a29c2d5c.jpg" width="200"></div>
 
 背面实物图是这样的：
+<div align=center><img src="https://user-images.githubusercontent.com/48275625/146016411-9f1a089f-d2ad-4909-a261-41eb10272a96.jpg" width="200"></div>
 
-原本设计的效果图是这样的：
+原本设计的3D渲染图是这样的：
+<div align=center><img src="https://user-images.githubusercontent.com/48275625/146016543-b56d4d8d-dc6b-4163-aba2-79425c398ec5.jpg" width="200"></div>
 
-背面的效果图
+背面的3D渲染图：
+<div align=center><img src="https://user-images.githubusercontent.com/48275625/146016560-02f262bb-afa4-4cd4-adea-648058302069.jpg" width="200"></div>
 
+
+## 注意点
 已经测试通过了，正常可用，下面有几点补充：
 
 
